@@ -1,0 +1,17 @@
+import ProgramBase
+import Utilities
+
+class Program : ProgramBase
+{
+	func Main(String args)
+	{
+		var number : Int
+		var secondNumber = 2.3 //Automatically initialized as Double
+		var thirdNumber = secondNumber as Int #Initialized as Int
+		
+		for (var i in 2...5)
+			thirdNumber = add(i, secondNumber as Int)
+			secondNumber = add(thirdNumber, 0.3) as Double
+		
+	}
+}
