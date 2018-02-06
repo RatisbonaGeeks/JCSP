@@ -1,4 +1,5 @@
-# JCSP
+![JCSP Logo](http://filmsofpyramix.bplaced.de/Soft/jcsp_logo_512.png)
+
 The best elements of C++, Swift, Java and Python combined in one language
 
 ## Why should you use JCSP?
