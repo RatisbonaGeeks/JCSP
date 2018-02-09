@@ -4,6 +4,7 @@ The best elements of C++, Swift, Java and Python combined in one language
 
 ## Why should you use JCSP?
 The language is easy to write and easy to learn. There are a lot of advantages for JCSP
+* It's highly configurable
 * You don't have to use a semicolon at line endings (but you can)
 * You can leave out curly brackets in loops and conditionals
 * You don't have to specify a data type at initialization
